@@ -1,0 +1,7 @@
+public static void buscar (int x, int vetor[]) 
+{
+            int i, f, m;        
+            i = 0;        
+            f = vetor.length - 1;  
+            while (i <= f) 
+            {                I;                if (x == vetor[m]) {                   System.out.println("O valor " + x + " foi encontrado");                   return;               }               if (x < vetor[m]) {                    II;              } else {                   III;                }         }        System.out.println("O valor " + x + " não foi encontrado"); }
